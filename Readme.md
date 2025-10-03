@@ -35,4 +35,4 @@ Backend is built with **Node.js/Express + MongoDB**, and frontend with **React +
   - Input sanitization
   - Future ready → caching (Redis), logging, Docker deployment
 
----
+
